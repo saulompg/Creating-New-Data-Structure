@@ -9,9 +9,9 @@ O seu tipo de dado não pode ser igual a nenhum dos tipos apresentados:
 * Pilha: inserir e remover no final;
 
 Implemente:
-1- Uma classe para a sua estrutura de dados;
-2- Uma classe que implemente o tipo de dado Agenda(nome, email, telefone, endereço e CEP);
-3- Uma classe Interface para implementar o seu tipo de dado e estrutura de dados criada;
+1. Uma classe para a sua estrutura de dados;
+2. Uma classe que implemente o tipo de dado Agenda(nome, email, telefone, endereço e CEP);
+3. Uma classe Interface para implementar o seu tipo de dado e estrutura de dados criada;
 
 ## Estrutura de Dados - Clip
 Na Estrutura de Dados Clip:
