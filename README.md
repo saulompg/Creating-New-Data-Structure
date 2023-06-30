@@ -15,13 +15,13 @@ Implemente:
 
 ## Estrutura de Dados - Clip
 Na Estrutura de Dados Clip:
-* O construtor padrão atribui o valor 10 para o tamanho do arranjo. É possível passar como parâmetro do contrutor o tamanho do arranjo;
-* A função `isEmpty()` verifica se o arranjo está vazio;
-* A função `isFull()` verifica se o arranjo está cheio;
-* A função `add()` adiciona um novo elemento ao arranjo. Os elementos são inseridos sempre no inicio do arranjo, deslocando os demais elementos para o final do arranjo;
-* A função `remove()` remove e retorna um elemento do arranjo. Os elementos são removidos do Clip pelo inicio do arranjo. Caso o arranjo esteja vazio a função retorna `null`;
-* A função `get()` retorna ao usuário o primeiro elemento sem removê-lo do arranjo. Caso o arranjo esteja vazio a função retorna `null`;
-* A função `print()` exibe os elementos do arranjo;
-* A função `size()` retorna o tamanho do arranjo;
+* O construtor padrão atribui o valor 10 para o tamanho do arranjo. É possível passar como parâmetro do construtor o tamanho do arranjo;
+* O método `isEmpty()` verifica se o arranjo está vazio;
+* O método `isFull()` verifica se o arranjo está cheio;
+* O método `add()` adiciona um novo elemento ao arranjo. Os elementos são inseridos sempre no inicio do arranjo, deslocando os demais elementos para o final do arranjo;
+* O método `remove()` remove e retorna um elemento do arranjo. Os elementos são removidos do Clip pelo inicio do arranjo. Caso o arranjo esteja vazio é retornado `null`;
+* O método `get()` retorna ao usuário o primeiro elemento sem removê-lo do arranjo. Caso o arranjo esteja vazio é retornado `null`;
+* O método `print()` exibe os elementos do arranjo;
+* O método `size()` retorna o tamanho do arranjo;
 
-Author: Saulo Gomes 
+Autor: Saulo Gomes 
