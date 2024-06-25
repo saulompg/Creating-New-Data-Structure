@@ -20,7 +20,7 @@ Na Estrutura de Dados Clip:
 * O método `isFull()` verifica se o arranjo está cheio;
 * O método `add()` adiciona um novo elemento ao arranjo. Os elementos são inseridos sempre no inicio do arranjo, deslocando os demais elementos para o final do arranjo;
 * O método `remove()` remove e retorna um elemento do arranjo. Os elementos são removidos do Clip pelo inicio do arranjo. Caso o arranjo esteja vazio é retornado `null`;
-* O método `get()` retorna ao usuário o primeiro elemento sem removê-lo do arranjo. Caso o arranjo esteja vazio é retornado `null`;
+* O método `get()` retorna ao usuário o primeiro elemento do arranjo sem removê-lo. Caso o arranjo esteja vazio é retornado `null`;
 * O método `print()` exibe os elementos do arranjo;
 * O método `size()` retorna o tamanho do arranjo;
 
