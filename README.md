@@ -1,6 +1,6 @@
-# data-structure-assessment
+# Creating-New-Data-Structure
 
-> Primeira avaliação da disciplina de estrutura de dados e algoritmos
+> Primeira avaliação da disciplina de Estrutura de Dados e Algoritmos
 
 Implemente um novo tipo de dado, o qual deve conter um método de inserção, leitura, remoção e impressão dos valores armazenados.
 O seu tipo de dado não pode ser igual a nenhum dos tipos apresentados:
